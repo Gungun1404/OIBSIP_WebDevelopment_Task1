@@ -1,0 +1,51 @@
+﻿# OIBSIP_WebDevelopment_Task1
+
+ 
+ # 🚀 LaunchLab - Landing Page
+Welcome to **LaunchLab**, a modern and responsive landing page created using only **HTML** and **CSS**. This page includes a sleek layout and a fully designed login section, ideal for startups, SaaS products, or MVP launches.
+
+
+## 🛠️ Tools & Technologies
+
+- **HTML5** – For structuring the webpage.
+- **CSS3** – For styling and responsiveness.
+- **Google Fonts** – (Optional) For clean typography.
+- **Font Awesome / Icons** – (Optional) Used for social or UI icons.
+
+
+## 🔐 Features
+
+- ✅ Responsive layout (desktop, tablet, mobile)
+- ✅ Attractive hero section for brand or product highlight
+- ✅ Login section with form (email + password fields)
+- ✅ Custom buttons and hover effects
+- ✅ Clean, modern aesthetic using pure HTML & CSS
+
+---
+
+## 🚧 Future Enhancements (Optional)
+
+- Integrate backend for login functionality (e.g., Node.js, Firebase)
+- Add animations using CSS or JS
+- Add dark mode toggle
+
+---
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+## 🙌 Acknowledgements
+
+- Inspired by modern startup landing pages
+- UI/UX ideas from Dribbble and Behance
+
+---
+
+
+
+
+
+#
